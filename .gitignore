@@ -2,6 +2,5 @@
 /target
 
 # xll sdk proprietary files
-/lib
 XLCALL.CPP
 XLCALL.H
